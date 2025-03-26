@@ -1,7 +1,7 @@
-package FactoryDesign;
+package DesignPattern.CreationalDesignPattren.FactoryDesign;
 
-import FactoryDesign.Buttons.Button;
-import FactoryDesign.Menus.Menu;
+import DesignPattern.CreationalDesignPattren.FactoryDesign.Buttons.Button;
+import DesignPattern.CreationalDesignPattren.FactoryDesign.Menus.Menu;
 
 public class Client {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FactoryDesign;
+package DesignPattern.CreationalDesignPattren.FactoryDesign;
 
 public enum SupportedPlotform {
     ANDRIOD,

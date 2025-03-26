@@ -1,4 +1,4 @@
-package FactoryDesign.Menus;
+package DesignPattern.CreationalDesignPattren.FactoryDesign.Menus;
 
 public class IosMenu implements Menu {
     @Override
